@@ -1,2 +1,2 @@
 # nodejs-exercises
-Various exercises exploring NodeJS in depth.
+Code from various node.js courses, tutorials, and small side projects covering core concepts.
