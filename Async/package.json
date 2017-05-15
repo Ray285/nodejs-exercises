@@ -1,0 +1,14 @@
+{
+  "name": "node-hero-async",
+  "version": "1.0.0",
+  "description": "\"Node Hero async exercises\"",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond D Lemon",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.0"
+  }
+}

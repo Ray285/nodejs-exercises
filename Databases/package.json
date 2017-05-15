@@ -1,0 +1,17 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "\"Node Hero database exercises\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond D Lemon",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.9",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
